@@ -27,8 +27,8 @@ cp -r KDE-3-Sounds ~/.local/share/sounds/
 ## Activating the Theme
 
 1. Open System Settings
-2. Navigate to "Notifications"
-3. Click on "Configure..." next to "Sound theme"
+2. Navigate to "Colors And Themes"
+3. Click on "System Sounds"
 4. Select "KDE-3-Sounds" from the list
 5. Click "Apply"
 
