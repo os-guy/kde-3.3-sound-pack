@@ -6,6 +6,9 @@ This is a classic KDE3 sound theme converted to modern KDE sound naming conventi
 
 The KDE-3-Sounds theme brings back the nostalgic sounds from KDE3 but makes them compatible with modern KDE installations. The sounds have been organized according to the freedesktop.org sound naming specification.
 
+## Download
+V1.0 - https://github.com/os-guy/kde-3.3-sound-pack/releases/download/V1.0/KDE-3-Sounds.tar.gz
+
 ## Installation
 
 ### System-wide installation
