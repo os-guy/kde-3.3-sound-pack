@@ -1,0 +1,19 @@
+[Sound Theme]
+Name=KDE-3-Sounds
+Comment=Classic KDE3 System Sounds
+Directories=stereo,actions,notifications,ui
+
+[stereo]
+OutputProfile=stereo
+
+[actions]
+Context=Actions
+OutputProfile=stereo
+
+[notifications]
+Context=Notifications
+OutputProfile=stereo
+
+[ui]
+Context=UI
+OutputProfile=stereo
